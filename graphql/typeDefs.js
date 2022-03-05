@@ -6,6 +6,7 @@ const typeDefs = gql`
         id: ID!
         name: String!
         position: String!
+        rateSumm: Float
         feedbacks: [Feedback]
     }
     type Feedback {
