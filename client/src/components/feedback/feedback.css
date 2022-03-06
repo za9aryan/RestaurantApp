@@ -1,0 +1,23 @@
+.feedback-input > * {
+    margin: 10px !important;
+}
+
+.App {
+    font-family: sans-serif;
+  }
+  
+
+.feedback-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    width: 50%;
+}
+
+.feedbackCard-ratings {
+    margin-top: 5px;
+}
